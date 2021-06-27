@@ -25,6 +25,6 @@ Each of the 5 weeks will have an assignment. The first week will have a small, o
 ### Moderators:
 - [Karrthik Arya](https://www.facebook.com/karrthik.arya/)
 - [Shubh Kumar](https://www.facebook.com/profile.php?id=100057361624828)
-- [Vrinda Goyal](https://www.facebook.com/vrinda.goel.7967/)
+- [Vrinda Goel](https://www.facebook.com/vrinda.goel.7967/)
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
